@@ -4,6 +4,8 @@ Binghamton University
 
 Professor : Leslie Lander
 
+Reference book : https://longbiao.spatial-crowdsensing.com/courses/scad/files/head-first-design-patterns-compressed.pdf
+
 Assignment 1:
 
 In ViewDriver, add a 4th button to call for the CenterModifier.
